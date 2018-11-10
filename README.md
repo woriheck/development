@@ -1,5 +1,8 @@
 # Developement
 
+Golang
+ - [GopherCon EU 2018: Peter Bourgon - Best Practices for Industrial Programming](https://www.youtube.com/watch?v=PTE4VJIdHPg)
+
 Cheatsheets
  - [Devhints](https://devhints.io/)
 
